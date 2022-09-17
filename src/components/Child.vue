@@ -1,8 +1,7 @@
 <template>
   <div class="flex items-center justify-center">
     <h2
-      class="text-3xl 
-    h-32 border-green-800 w-1/2 text-green-800 shadow-outline"
+      class="w-1/2 h-32 text-3xl text-green-800 border-green-800 shadow-outline"
     >
       <!-- {{ $erik }} -->
       {{ message }}
